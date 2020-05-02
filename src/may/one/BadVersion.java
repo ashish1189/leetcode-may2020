@@ -1,4 +1,4 @@
-package may;
+package may.one;
 
 public class BadVersion {
 	public int firstBadVersion(int n) {

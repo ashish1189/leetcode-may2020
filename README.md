@@ -9,3 +9,4 @@ A collection of solutions for the May LeetCoding Challenge 2020.
 | 4 | https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3319/  | Easy  | NA | NA | O(1) | O(1) | Within 15 mins |
 | 5 | https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3320/  | Easy  | NA | HashMap | O(n) | O(n) | Within 15 mins |
 | 6 | https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3321/  | Easy  | NA | HashMap | O(n) | O(n) | Within 15 mins |
+| 7 | https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3322/  | Medium  | NA | NA | O(n) | O(n) | Within 60 mins |

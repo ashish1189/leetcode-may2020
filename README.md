@@ -10,5 +10,6 @@ A collection of solutions for the May LeetCoding Challenge 2020.
 | 5 | https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3320/  | Easy  | NA | HashMap | O(n) | O(n) | Within 15 mins |
 | 6 | https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3321/  | Easy  | NA | HashMap | O(n) | O(n) | Within 15 mins |
 | 7 | https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3322/  | Medium  | NA | NA | O(n) | O(n) | Within 60 mins |
-| 8 | https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3323/  | Easy  | NA | 2D Array | O(n) | O(n) | Within 15 mins |
-| 9 | https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3324/  | Easy  | NA | NA | O(n) | O(1) | Within 60 mins |
+| 8 | https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-2-may-8th-may-14th/3323/  | Easy  | NA | 2D Array | O(n) | O(n) | Within 15 mins |
+| 9 | https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-2-may-8th-may-14th/3324/  | Easy  | NA | NA | O(n) | O(1) | Within 60 mins |
+| 10 | https://leetcode.com/explore/featured/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3325/ | Medium  | NA | Map, Array | O(n2) | O(1) | Within 60 mins |

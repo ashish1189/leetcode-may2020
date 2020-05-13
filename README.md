@@ -15,3 +15,4 @@ A collection of solutions for the May LeetCoding Challenge 2020.
 | 10 | https://leetcode.com/explore/featured/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3325/ | Medium  | NA | Map, Array | O(n2) | O(1) | Within 60 mins |
 | 11 | https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3326/ | Medium  | Recursion | Array | O(n) | O(1) | Within 60 mins |
 | 12 | https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3327/ | Medium  | BST, Recursion | Array | O(log n) | O(1) | Within 60 mins |
+| 12 | https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3328/ | Medium  | NA | Array | O(k) | O(k) | Within 60 mins |

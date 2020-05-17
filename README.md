@@ -19,3 +19,4 @@ A collection of solutions for the May LeetCoding Challenge 2020.
 | 14 | https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3329/ | Easy  | NA | Trie, Map | O(1) | O(1) | Within 30 mins |
 | 15 | https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3330/ | Medium | Kadane | Array | O(n) | O(n) | Within 60 mins |
 | 16 | https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3331/ | Easy | NA | NA | O(n) | O(1) | Within 20 mins |
+| 17 | https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3332/ | Medium | NA | NA | O(n) | O(1) | Within 45 mins |

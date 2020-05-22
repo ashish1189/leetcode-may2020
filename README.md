@@ -24,3 +24,4 @@ A collection of solutions for the May LeetCoding Challenge 2020.
 | 19 | https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3334/ | Easy | NA | Stack | O(1) | O(1) | Within 15 mins |
 | 20 | https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3335/ | Medium | NA | NA | O(k) | O(1) | Within 60 mins |
 | 21 | https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3336/ | Easy | NA | NA | O(n2) | O(m*n) | Within 20 mins |
+| 22 | https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3337/ | Easy | NA | NA | O(n2) | O(m*n) | Within 20 mins |

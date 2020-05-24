@@ -1,6 +1,6 @@
 package may.twentyfour;
 
-import node.BinaryNode;
+import java.util.Stack;
 
 public class BinaryTree {
 	class TreeNode {
@@ -15,26 +15,44 @@ public class BinaryTree {
 			this.right = right;
 		}
 	}
-	
-	TreeNode root;
-	
-	void insert(int value) {
-		root = insert(root, value);
-	}
-	
-	private TreeNode insert(TreeNode node, int value) {
-		if(node == null) {
-			return new TreeNode(value);
-		} else if (value < )
-	}
-	
+
 	public TreeNode bstFromPreorder(int[] preorder) {
-        
+		TreeNode root = new TreeNode(preorder[0]);
+		
+		Stack<TreeNode> s = new Stack<TreeNode>();
+		
+		s.push(root);
+		
+		for (int i = 1; i < preorder.length; ++i) {
+			TreeNode temp = null;
+			
+			while(!s.isEmpty() && preorder[i] > s.peek().val) {
+				temp = s.pop();
+			}
+			
+			if(temp != null) {
+				temp.right = new TreeNode(preorder[i]);
+				s.push(temp.right);
+			} else {
+				temp = s.peek();
+				temp.left = new TreeNode(preorder[i]);
+				s.push(temp.left);
+			}
+		}
+		return root;
     }
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
+		BinaryTree bt = new BinaryTree();
+		
+		int[] A = {8,5,1,7,10,12};
+		TreeNode rooot = bt.bstFromPreorder(A);
+		
+		System.out.println(rooot.val);
+		System.out.println(rooot.left.val+"\t"+rooot.right.val);
+		System.out.println(rooot.left.left.val+"\t"+rooot.left.right.val
+				+"\t\t"+rooot.right.left+"\t"+rooot.right.right.val);
 	}
 
 }

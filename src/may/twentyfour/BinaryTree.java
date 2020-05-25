@@ -52,7 +52,7 @@ public class BinaryTree {
 		System.out.println(rooot.val);
 		System.out.println(rooot.left.val+"\t"+rooot.right.val);
 		System.out.println(rooot.left.left.val+"\t"+rooot.left.right.val
-				+"\t\t"+rooot.right.left+"\t"+rooot.right.right.val);
+				+"\t"+rooot.right.left+"\t"+rooot.right.right.val);
 	}
 
 }

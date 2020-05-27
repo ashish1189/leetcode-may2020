@@ -28,3 +28,4 @@ A collection of solutions for the May LeetCoding Challenge 2020.
 | 23 | https://leetcode.com/explore/featured/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3338/ | Easy | NA | NA | O(n) | O(n) | Within 30 mins |
 | 24 | https://leetcode.com/explore/featured/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3339/ | Easy | NA | BST | O(n) | O(n) | Within 30 mins |
 | 25 | https://leetcode.com/explore/featured/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3340/ | Easy | DP | BST | O(nm) | O(mn) | Within 30 mins |
+| 26 | https://leetcode.com/explore/featured/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3341/ | Hard | DFS | Array | O(n + g) | O(n + g) | Within 120 mins |

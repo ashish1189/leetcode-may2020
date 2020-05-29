@@ -30,3 +30,5 @@ A collection of solutions for the May LeetCoding Challenge 2020.
 | 25 | https://leetcode.com/explore/featured/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3340/ | Easy | DP | BST | O(nm) | O(mn) | Within 30 mins |
 | 26 | https://leetcode.com/explore/featured/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3341/ | Hard | DFS | Array | O(n + g) | O(n + g) | Within 120 mins |
 | 27 | https://leetcode.com/explore/featured/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3342/ | Hard | DFS | Array | O(n) | O(n) | Within 20 mins |
+| 28 | https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3343/ | Hard | NA | Array | O(n) | O(n) | Within 20 mins |
+| 29 | https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/538/week-5-may-29th-may-31st/3344/ | Medium | Topological Sort by DFS | Map, List | O(n) | O(n) | Within 20 mins |
